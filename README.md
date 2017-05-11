@@ -1,6 +1,8 @@
 # LBSTest
 
-百度LBS开放平台的SDK下载地址是：http://lbsyun.baidu.com/sdk/download
+百度LBS开放平台的SDK下载地址是：
+
+                 http://lbsyun.baidu.com/sdk/download
 
 下载完成后对该压缩包解压，其中会有一个libs目录
 
